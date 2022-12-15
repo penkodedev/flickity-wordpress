@@ -1,1 +1,3 @@
-# kodes
+# Flickity
+
+Flick
