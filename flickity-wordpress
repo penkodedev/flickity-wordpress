@@ -1,3 +1,5 @@
+//* Adapted from the original code by kreigD https://gist.github.com/KreigD/ **//
+
 <div class="main-carousel">
 	<?php query_posts(array(
 				'post_type' => 'news',
