@@ -1,3 +1,3 @@
-# Flickity
+# Flickity Slider for WordPress Posts
 
-Flick
+This code is an adaptation of Flickity slider for WordPress Custom Post Types.
